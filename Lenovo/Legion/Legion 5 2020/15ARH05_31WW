@@ -1,0 +1,52 @@
+AMD + 1650/1650 Ti
+2 Fans
+
+Performance
+CPU Temps Ramp Up 59 59 59 72 76 82 87 92 96
+CPU Temps Ramp Down 51 51 51 67 73 76 83 88 93
+
+GPU Temps Ramp Up 54 54 54 54 54 54 58 66 70
+GPU Temps Ramp Down 51 51 51 51 51 51 55 63 67
+
+Heatsink Temps Ramp Up 38 42
+Heatsink Temps Ramp Down 35 39 39 39 39 39 39 39 39
+
+Fan 0 RPM 1600 1900 2100 2300 2600 2900 3500 3800 4400
+Fan 1 RPM 1700 1900 2100 2300 2600 2900 3500 3800 4400
+
+Acceleration 02 02 02 02 02 02 02 02 02
+Deceleration 02 02 02 02 02 02 02 02 02
+
+
+Balance
+CPU Temps Ramp Up 59 59 59 68 77 82 87 89
+CPU Temps Ramp Down 55 55 55 60 72 78 83 86
+
+GPU Temps Ramp Up 54 54 54 54 54 54 58 66
+GPU Temps Ramp Down 51 51 51 51 51 51 55 63
+
+Heatsink Temps Ramp Up 38 42
+Heatsink Temps Ramp Down 35 39 39 39 39 39 39 39
+
+Fan 0 RPM 1600 1900 2100 2300 2600 2900 3500 3800 4400
+Fan 1 RPM 1700 1900 2100 2300 2600 2900 3500 3800 4400
+
+Acceleration 05 05 05 05 05 05 05 05 05
+Deceleration 07 07 07 07 07 07 07 07 07
+
+
+Quiet
+CPU Temps Ramp Up (none)
+CPU Temps Ramp Down (none)
+
+GPU Temps Ramp Up 51 51 51 51 55 60 64 70
+GPU Temps Ramp Down 48 48 48 48 53 57 61 64
+
+Heatsink Temps Ramp Up 38 42 54
+Heatsink Temps Ramp Down 35 41 47 51 51 51 51 51
+
+Fan 0 RPM 1600 1900 2100 2300 2600 2900 3500 3800 4400
+Fan 1 RPM 1700 1900 2100 2300 2600 2900 3500 3800 4400
+
+Acceleration 05 05 05 05 05 05 05 05 05
+Deceleration 07 07 07 07 07 07 07 07 07
