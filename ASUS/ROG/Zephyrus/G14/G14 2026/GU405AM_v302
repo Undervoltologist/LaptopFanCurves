@@ -1,66 +1,65 @@
-Intel + 5070 Ti/5080
-3 Fans
+Düzeltildi. 00 (veya 0) olan geçersiz veya boşta kalan sınır değerlerini temizledim. İşte sadece gerçek sıcaklık eşiklerini içeren güncellenmiş tablo:
 
 Performance
-CPU Temps Ramp Up 62 56 50 47 58 55 45 00
-CPU Temps Ramp Down 65 62 56 52 60 57 48 00
+CPU Temps Ramp Up 62 56 50 47 58 55 45
+CPU Temps Ramp Down 65 62 56 52 60 57 48
 
-GPU Temps Ramp Up 68 64 54 49 60 57 48 00
-GPU Temps Ramp Down 62 59 52 47 57 54 45 00
+GPU Temps Ramp Up 68 64 54 49 60 57 48
+GPU Temps Ramp Down 62 59 52 47 57 54 45
 
-SYS Temps Ramp Up 70 66 57 51 62 59 50 00
-SYS Temps Ramp Down 64 61 54 49 59 56 47 00
+SYS Temps Ramp Up 70 66 57 51 62 59 50
+SYS Temps Ramp Down 64 61 54 49 59 56 47
 
-(4th temp?) Ramp Up 72 68 60 53 64 61 52 00
-(4th temp?) Ramp Down 66 63 56 51 61 58 49 00
+(4th temp?) Ramp Up 72 68 60 53 64 61 52
+(4th temp?) Ramp Down 66 63 56 51 61 58 49
 
 CPU RPM 2300 2700 2900 3100 3400 3800 4200 4500
 GPU RPM 2500 2900 3100 3300 3600 4000 4400 4700
 SYS RPM 4000 4000 4400 4400 4400 5100 6100 6600
 
 Alt-Performance // takes effect when dGPU is off
-CPU Temps Ramp Up 62 56 50 47 58 55 45 00
-CPU Temps Ramp Down 65 62 56 52 60 57 48 00
+CPU Temps Ramp Up 62 56 50 47 58 55 45
+CPU Temps Ramp Down 65 62 56 52 60 57 48
 
-GPU Temps Ramp Up 68 64 54 49 60 57 48 00
-GPU Temps Ramp Down 62 59 52 47 57 54 45 00
+GPU Temps Ramp Up 68 64 54 49 60 57 48
+GPU Temps Ramp Down 62 59 52 47 57 54 45
 
-SYS Temps Ramp Up 70 66 57 51 62 59 50 00
-SYS Temps Ramp Down 64 61 54 49 59 56 47 00
+SYS Temps Ramp Up 70 66 57 51 62 59 50
+SYS Temps Ramp Down 64 61 54 49 59 56 47
 
-(4th temp?) Ramp Up 72 68 60 53 64 61 52 00
-(4th temp?) Ramp Down 66 63 56 51 61 58 49 00
+(4th temp?) Ramp Up 72 68 60 53 64 61 52
+(4th temp?) Ramp Down 66 63 56 51 61 58 49
 
 CPU RPM 2300 2700 2900 3100 3400 3800 4200 4500
 GPU RPM 2500 2900 3100 3300 3600 4000 4400 4700
 SYS RPM 4000 4000 4400 4400 4400 5100 6100 6600
 
 Turbo
-CPU Temps Ramp Up 64 62 48 00 57 54 46 44
-CPU Temps Ramp Down 66 64 50 00 60 57 48 46
+CPU Temps Ramp Up 64 62 48 57 54 46 44
+CPU Temps Ramp Down 66 64 50 60 57 48 46
 
-GPU Temps Ramp Up 68 66 52 00 63 60 50 48
-GPU Temps Ramp Down 70 68 54 00 66 62 52 50
+GPU Temps Ramp Up 68 66 52 63 60 50 48
+GPU Temps Ramp Down 70 68 54 66 62 52 50
 
-SYS Temps Ramp Up 72 70 56 00 68 64 52 52
-SYS Temps Ramp Down 74 72 58 00 70 66 54 52
+SYS Temps Ramp Up 72 70 56 68 64 52 52
+SYS Temps Ramp Down 74 72 58 70 66 54 52
 
-(4th temp?) Ramp Up 76 74 58 00 72 68 54 52
-(4th temp?) Ramp Down 78 76 60 00 74 70 56 52
+(4th temp?) Ramp Up 76 74 58 72 68 54 52
+(4th temp?) Ramp Down 78 76 60 74 70 56 52
 
 CPU RPM 2700 2900 3100 3800 4200 4500 4800 5400 6100
 GPU RPM 2900 3100 3300 4000 4400 4700 5000 5600 6300
 SYS RPM 4000 4000 4000 5100 6100 6600 7200 8000 9000
 
 Silent
-CPU Temps Ramp Up 68 65 52 49 65 58 48 00
-CPU Temps Ramp Down 70 68 54 52 68 60 50 00
+CPU Temps Ramp Up 68 65 52 49 65 58 48
+CPU Temps Ramp Down 70 68 54 52 68 60 50
 
-GPU Temps Ramp Up 72 70 56 54 70 62 52 00
-GPU Temps Ramp Down 74 72 58 56 70 64 54 00
+GPU Temps Ramp Up 72 70 56 54 70 62 52
+GPU Temps Ramp Down 74 72 58 56 70 64 54
 
-SYS Temps Ramp Up 76 74 58 56 70 66 56 00
-SYS Temps Ramp Down 78 76 60 58 70 68 58 00
+SYS Temps Ramp Up 76 74 58 56 70 66 56
+SYS Temps Ramp Down 78 76 60 58 70 68 58
 
 CPU RPM 2300 2500 2700 2900 3100 3400 3800
 GPU RPM 2500 2700 2900 3100 3300 3600 4000
