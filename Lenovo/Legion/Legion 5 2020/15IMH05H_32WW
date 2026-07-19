@@ -1,0 +1,69 @@
+1660 Ti
+2 Fans
+
+Performance
+CPU Temps Ramp Up 56 56 56 61 70 75 83 87
+CPU Temps Ramp Down 51 51 51 57 67 71 77 80
+
+GPU Temps Ramp Up 60 60 60 60 60 60 64 74 77
+GPU Temps Ramp Down 57 57 57 57 57 57 61 71 74
+
+Heatsink Temps Ramp Up 38 45
+Heatsink Temps Ramp Down 35 41
+
+Fan 0 RPM 1600 1900 2100 2300 2600 2900 3500 3800 4500
+Fan 1 RPM 1700 1900 2100 2300 2600 2900 3500 3800 4500
+
+Acceleration 02 02 02 02 02 02 02 02 02
+Deceleration 02 02 02 02 02 02 02 02 02
+
+
+Balance
+CPU Temps Ramp Up 56 56 56 61 70 75 83 87
+CPU Temps Ramp Down 47 47 47 57 67 71 77 80
+
+GPU Temps Ramp Up 60 60 60 60 60 60 64 72 80
+GPU Temps Ramp Down 57 57 57 57 57 57 61 68 76
+
+Heatsink Temps Ramp Up 38 45
+Heatsink Temps Ramp Down 35 41
+
+Fan 0 RPM 1600 1900 2100 2300 2600 2900 3500 3800 4500
+Fan 1 RPM 1700 1900 2100 2300 2600 2900 3500 3800 4500
+
+Accel Delay 05 05 05 05 05 05 05 05 02
+Decel Delay 07 07 07 07 07 07 07 07 02
+
+
+Quiet
+CPU Temps Ramp Up (none)
+CPU Temps Ramp Down (none)
+
+GPU Temps Ramp Up 52 52 52 52 56 60 64 73
+GPU Temps Ramp Down 48 48 48 48 53 57 61 64
+
+Heatsink Temps Ramp Up 38 45 50
+Heatsink Temps Ramp Down 35 41 47
+
+Fan 0 RPM 1600 1900 2100 2300 2600 2900 3500 3800
+Fan 1 RPM 1700 1900 2100 2300 2600 2900 3500 3800
+
+Accel Delay 05 05 05 05 05 05 05 05 05
+Decel Delay 07 07 07 07 07 07 07 07 07
+
+
+Very Low Temperature Curve
+CPU Temps Ramp Up (none)
+CPU Temps Ramp Down (none)
+
+GPU Temps Ramp Up (none)
+GPU Temps Ramp Down (none)
+
+Heatsink Ramp Up 36 40 44
+Heatsink Ramp Down 33 37 41
+
+Fan 0 RPM 1600 1800 2000
+Fan 1 RPM 1600 1800 2000
+
+Accel Delay 05 05 05
+Decel Delay 07 07 07
