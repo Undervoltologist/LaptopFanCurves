@@ -1,0 +1,50 @@
+1660 Ti/2060
+2 Fans
+
+Performance
+CPU Temps Ramp Up 55 55 55 61 66 74 78 85
+CPU Temps Ramp Down 50 50 50 57 63 70 74 80
+
+GPU Temps Ramp Up 60 60 60 60 60 60 66 75 81
+GPU Temps Ramp Down 57 57 57 57 57 57 61 71 78
+
+Heatsink Temps Ramp Up 38 43
+Heatsink Temps Ramp Down 35 41
+
+Fan 0 RPM 1600 1800 2100 2300 2600 2900 3500 3800 4500
+Fan 1 RPM 1700 1900 2100 2300 2600 2900 3500 3800 4500
+
+Acceleration 02 02 02 02 02 02 02 02 02
+Deceleration 02 02 02 02 02 02 02 02 02
+
+Balance
+CPU Temps Ramp Up 55 55 55 60 66 74 78 85
+CPU Temps Ramp Down 50 50 50 56 63 70 74 80
+
+GPU Temps Ramp Up 60 60 60 60 60 60 64 71 80
+GPU Temps Ramp Down 57 57 57 57 57 57 61 68 76
+
+Heatsink Temps Ramp Up 38 45
+Heatsink Temps Ramp Down 35 41
+
+Fan 0 RPM 1600 1800 2100 2300 2600 2900 3500 3800 4500
+Fan 1 RPM 1700 1900 2100 2300 2600 2900 3500 3800 4500
+
+Acceleration 05 05 05 05 05 05 05 05 02
+Deceleration 07 07 07 07 07 07 07 07 02
+
+Quiet
+CPU Temps Ramp Up (none)
+CPU Temps Ramp Down (none)
+
+GPU Temps Ramp Up 52 52 52 52 56 60 64 73
+GPU Temps Ramp Down 48 48 48 48 53 57 61 64
+
+Heatsink Temps Ramp Up 38 45 50
+Heatsink Temps Ramp Down 35 41 47
+
+Fan 0 RPM 1600 1800 2100 2300 2600 2900 3500 3800 4500
+Fan 1 RPM 1700 1900 2100 2300 2600 2900 3500 3800 4500
+
+Acceleration 05 05 05 05 05 05 05 05 05
+Deceleration 07 07 07 07 07 07 07 07 07
